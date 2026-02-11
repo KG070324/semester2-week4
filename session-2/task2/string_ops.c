@@ -13,11 +13,11 @@ int main( void ) {
 
     // use printf to verify the following tests
 
-    // use 'strcmp' to compare 2 strings 
+    // use 'strcmp' to compare 2 strings - print the return value
 
-    // use 'strcat' to concatenate 2 strings
+    // use 'strcat' to concatenate 2 strings - print the resulting string
 
-    // use 'strcpy' to copy a string into str3
+    // use 'strcpy' to copy a string into str3 - print string 3
 
     return 0;
 }

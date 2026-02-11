@@ -4,9 +4,10 @@
 
 Small example showing how character arrays differ from strings.
 
-Challenge: 
+Question: 
 - Explain why printing the array as a string (%s) causes a strange result.
-- Hint: Change the second string to something other than "hello".
+- Hint: Think about how C data is stored in memory. 
+- Test this by changing the second string to something other than "hello".
 
 2. **String library**
 
